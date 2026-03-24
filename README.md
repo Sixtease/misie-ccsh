@@ -19,19 +19,6 @@ Repozitář je uspořádán tak, aby byly po ruce jednak hlavní kapitoly výsle
 - `05-revidovana-koncepce-misie-ccsh.md`
   Revidovaná pracovní verze koncepce, která propojuje teologické jádro s praktičtější strategickou a operační vrstvou.
 
-## Doporučené pořadí čtení
-
-Pro rychlou orientaci je nejpraktičtější tento sled:
-
-1. `00-pruvodni-dopis.md`
-2. `05-revidovana-koncepce-misie-ccsh.md`
-3. `03-navrhovane-piloty.md`
-4. `04-investice-do-rozvoje.md`
-5. `01-srovnatelne-projekty.md`
-6. `02-reserse/`
-
-První čtyři soubory dávají rychlý obraz celého návrhu. `01-srovnatelne-projekty.md` a zejména `02-reserse/` slouží jako podkladová a dokladová vrstva pro hlubší čtení.
-
 ## Jak s repozitářem pracovat
 
 - Hlavní text pro společnou debatu je v pěti kapitolách v kořeni repozitáře.
