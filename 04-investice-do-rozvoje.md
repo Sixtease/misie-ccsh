@@ -5,7 +5,7 @@
 Účelem misie je přivést do církve nové lidi. Pokud však lidé, kteří vyslyší pozvání, nenajdou dostatečné důvody v církvi setrvat, bylo misijní úsilí zbytečné. Aby se církevní prostředí, do kterého misie zve, přirozeně stávalo pro příchozí novým domovem, je nutné efektivně rozvíjet ty stránky církve, které se nejvíce podílejí na reálném a pociťovaném přínosu pro její nové a stávající členy.[1][2]
 Které stránky to přesně jsou, je na další výzkum, ale pravděpodobně se týkají spíš jednotlivých náboženských obcí než celocírkevních struktur.[3][4][5] Ty jsou pak přímo závislé na lidech v těchto obcích.[1][6] Součástí misijní strategie proto musí být i strategie rozvoje, která se zaměřuje na posilování lidí, služeb a komunit, které jsou nejblíže k lidem, které církev zve. Bez takové rozvojové strategie bude misijní úsilí ztrácet účinek, protože nebude schopné nést další krok.[1][2]
 
-V českém prostředí navíc vstupujeme do situace, v níž kněžská i obecně církevní role nese omezenou společenskou prestiž a oslabenou důvěru.[7][8] To samo o sobě neznamená rezignaci, ale znamená to, že církev nemůže předpokládat přirozenou autoritu.[7][8] Musí ji znovu získávat kvalitou služby, srozumitelností, věrohodností a schopností doprovázet lidi v reálných životních otázkách.[1][2]
+V českém prostředí navíc vstupujeme do situace, v níž kněžská i obecně církevní role nese omezenou společenskou prestiž a oslabenou důvěru.[7][8] To samo není důvod k rezignaci, ale znamená to, že církev nemůže předpokládat přirozenou autoritu.[7][8] Musí ji znovu získávat kvalitou služby, srozumitelností, věrohodností a schopností doprovázet lidi v reálných životních otázkách.[1][2]
 
 Dosavadní vývoj zároveň ukazuje, že samotné udržování stávajícího provozu není dostatečnou odpovědí.[9][10][11][12] Pokud církev dlouhodobě udržuje struktury, které spotřebovávají energii, ale nevytvářejí nový misijní potenciál, dostává se do obranného postavení. Investice do rozvoje proto nejsou doplňkem pro dobu přebytku. Jsou podmínkou, aby církev dokázala přejít od udržování k obnově.[13]
 
@@ -29,27 +29,17 @@ Investice do hlubších formativních vrstev proto není nadstavbou pro několik
 
 Zároveň by však bylo chybou postavit rozvoj jen na vnitřní formaci. Služba potřebuje i poctivě pěstované kompetence: jak ty primární, bezprostředně spojené s duchovní službou, jako je práce s biblickým textem, teologická orientace, liturgika, komunikace a pastorační doprovázení, tak i dovednosti vedlejší, které rozhodují o důvěryhodnosti a udržitelnosti celé praxe, například organizaci, spolupráci, práci s lidmi, vedení, komunikaci navenek nebo základní provozní spolehlivost.[23][24][37] Právě v těchto zdánlivě vedlejších oblastech se často rozhoduje, zda bude církev navenek působit jako celek, který umí nést odpovědnost.[37][38]
 
-Korthagenův model je užitečný právě tím, že tyto roviny nestaví proti sobě.[31][39] Hlubší vrstvy dávají řemeslu směr, stabilitu a pravdivost, zatímco konkrétní kompetence dávají vnitřnímu zrání viditelnou a sdělitelnou podobu.[31][37][39] Rozvojová investice proto musí počítat s oběma póly současně a mentoring, supervize i další podpůrné mechanismy mají být plánovány tak, aby pomáhaly jak osobnostnímu a duchovnímu zrání, tak rozvoji hlavních i vedlejších dovedností potřebných pro skutečně nosnou službu.
-
-### 3. Formace a společné učení církve
-
-Průběžná podpora nositelů služby má být propojena i s posilováním kompetencí ve vedlejších oblastech, protože právě tam se často rozhoduje, zda celkové působení církve bude přijato jako důvěryhodné.[37][38][40] Kompetence v mimoduchovních oblastech mohou příchozí lidé vnímat dokonce silněji než samotnou spirituální nabídku, protože s těmito oblastmi mají ve svých životech zkušenost a také se v nich bezprostředně ukazuje míra péče, pořádku, ohleduplnosti a schopnosti nést konkrétní odpovědnost.[38]
-
-Stejně tak platí opačné riziko: slabina v provozních a organizačních věcech může výrazně narušit i jinak poctivou duchovní a misijní práci.[37][38] Pokud církev selhává v organizaci, komunikaci, práci s prostředky, zacházení s lidmi nebo v základní spolehlivosti, podkopává tím účinek všeho ostatního úsilí.[37][38][40] To se týká jejích představitelů i na té nejnižší úrovni, kde vznikají rozptýlené zkušenosti jednotlivců z veřejnosti.[38][40] Rozvojová strategie proto nemá zužovat pozornost jen na teologické a pastorační otázky, ale také systematicky posilovat ty provozní, organizační a vztahové kompetence, bez nichž se žádná služba dlouhodobě neudrží.[1][2][6][41]
-
-Společné učení církve pak spočívá i v tom, že se zkušenosti z těchto vedlejších oblastí nebudou nechávat na úrovni jednotlivých improvizací, ale budou se sdílet, porovnávat a převádět do použitelných standardů a návyků.[22][23] Jen tak lze spojit hlavní důraz na poslání s dostatečně kompetentním zázemím, které jeho věrohodnost nepodkopává, ale naopak posiluje.[1][2]
-
-Vzájemný mentoring i externí koučování by se proto měly zaměřit do jisté míry i na tyto vedlejší oblasti.
+Korthagenův model je užitečný právě tím, že tyto roviny nestaví proti sobě.[31][39] Hlubší vrstvy dávají řemeslu směr, stabilitu a pravdivost, zatímco konkrétní kompetence dávají vnitřnímu zrání viditelnou a sdělitelnou podobu.[31][37][39] Rozvojová investice proto musí počítat s oběma póly současně a mentoring, supervize i další podpůrné mechanismy mají být plánovány tak, aby pomáhaly jak osobnostnímu a duchovnímu zrání, tak rozvoji hlavních i vedlejších dovedností potřebných pro skutečně účinnou službu.
 
 ## Návrh rozpočtu
 
-Rozvoj nelze financovat jen zbytkově, symbolicky nebo formou drobných přílepků k již přetíženému provozu.[42] Pokud je investice do rozvoje strategickou prioritou, musí se to projevit i v rozpočtové logice. Prvním krokem je proto plně krytá varianta priorit: jasně vymezený okruh rozvojových investic, u nichž budou zahrnuty skutečné náklady, včetně času, koordinace, vzdělávání, doprovázení a režijního zatížení. Jen tak lze poznat, co je církev opravdu schopna bezpečně nést.[43][44]
+Rozvoj nelze financovat jen zbytkově, symbolicky nebo formou drobných přílepků k již přetíženému provozu.[40] Pokud je investice do rozvoje strategickou prioritou, musí se to projevit i v rozpočtové logice. Prvním krokem je proto plně krytá varianta priorit: jasně vymezený okruh rozvojových investic, u nichž budou zahrnuty skutečné náklady, včetně času, koordinace, vzdělávání, doprovázení a režijního zatížení. Jen tak lze poznat, co je církev opravdu schopna bezpečně nést.[41][42]
 
-Vedle toho má smysl definovat minimálně životaschopnou variantu. Ta nemá znamenat podfinancovaný provoz ani program postavený na vyčerpání několika ochotných lidí. Má vymezit nejmenší rozsah rozvojových investic, který je ještě schopen přinášet skutečný účinek, průběžné vyhodnocování a základní personální i provozní bezpečí.[45] Pokud ani taková varianta není financovatelná, je poctivější to přiznat než vytvářet strategii bez reálné opory. V takovém případě by zároveň bylo zřejmé, že rozvojové priority nebude možné věrohodně ověřit ani dlouhodobě nést.
+Vedle toho má smysl definovat minimálně životaschopnou variantu. Ta nemá znamenat podfinancovaný provoz ani program postavený na vyčerpání několika ochotných lidí. Má vymezit nejmenší rozsah rozvojových investic, který je ještě schopen přinášet skutečný účinek, průběžné vyhodnocování a základní personální i provozní bezpečí.[43] Pokud ani taková varianta není financovatelná, je poctivější to přiznat než vytvářet strategii bez reálné opory. V takovém případě by zároveň bylo zřejmé, že rozvojové priority nebude možné věrohodně ověřit ani dlouhodobě nést.
 
-Rozpočtová debata musí zároveň otevřít otázku, kde lze ušetřit a co přestat nést ve starém systému. Není realistické chtít po církvi, aby současně držela všechny dosavadní zátěže a vedle nich ještě vybudovala novou rozvojovou kapacitu. Investice do rozvoje proto předpokládá i rozhodování o útlumu, přesunu nebo ukončení některých činností, které již neodpovídají prioritám nebo spotřebovávají prostředky bez přiměřeného vitálního přínosu.[46][47]
+Rozpočtová debata musí zároveň otevřít otázku, kde lze ušetřit a co přestat nést ve starém systému. Není realistické chtít po církvi, aby současně držela všechny dosavadní zátěže a vedle nich ještě vybudovala novou rozvojovou kapacitu. Investice do rozvoje proto předpokládá i rozhodování o útlumu, přesunu nebo ukončení některých činností, které již neodpovídají prioritám nebo spotřebovávají prostředky bez přiměřeného vitálního přínosu.[44][45]
 
-Stejně důležité je předcházet neúčelnému a netransparentnímu použití prostředků. To znamená odmítnout symbolické financování bez jasné vazby na prioritní cíle, neprůhledné rozdělování prostředků i projekty, u nichž není zřejmé, jak budou hodnoceny jejich výsledky a přínos.[48] Smyslem rozpočtu nemá být rozmělňovat prostředky tak, aby se zachovalo zdání aktivity, ale soustředit je tam, kde mohou s přiměřenou pravděpodobností přinést největší užitek.[42][49]
+Stejně důležité je předcházet neúčelnému a netransparentnímu použití prostředků. To znamená odmítnout symbolické financování bez jasné vazby na prioritní cíle, neprůhledné rozdělování prostředků i projekty, u nichž není zřejmé, jak budou hodnoceny jejich výsledky a přínos.[46] Smyslem rozpočtu nemá být rozmělňovat prostředky tak, aby se zachovalo zdání aktivity, ale soustředit je tam, kde mohou s přiměřenou pravděpodobností přinést největší užitek.[40][47]
 
 Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým návrhem je, aby církev na všech úrovních zavedla rozvojovou položku v rozpočtu a každoročně dokládala, zda její výše postačuje alespoň na jeden pilot, jeho koordinaci a vyhodnocení; pokud ne, jde jen o formální deklaraci priority.
 
@@ -133,22 +123,18 @@ Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým ná
 
 [39] Wierstra et al., *Chaplains’ Professional Identity and a Structured Approach to Chaplaincy: Mutually Exclusive or Complementary? - 2024* — https://doi.org/10.1007/s11089-024-01164-5
 
-[40] Adena et al., *Quality certification for nonprofits, charitable giving, and donor's trust: Experimental evidence - 2019* — https://doi.org/10.1016/j.jebo.2019.01.007
+[40] Government of the United Kingdom, *The Green Book: UK government guidance on appraisal - 2026* — https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf
 
-[41] CČSH, *Nesnadná cesta k ekonomické soběstačnosti církve* — https://www.ccsh.cz/aktualne/56-dalsi-texty/1050-nesnadna-cesta-k-ekonomicke-sobestacnosti-cirkve.html
+[41] Österreichische Forschungsförderungsgesellschaft, *Indirect costs in Horizon Europe - 2025* — https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
 
-[42] Government of the United Kingdom, *The Green Book: UK government guidance on appraisal - 2026* — https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf
+[42] National Council of Nonprofits, *(Mis)Understanding Overhead* — https://www.councilofnonprofits.org/running-nonprofit/administration-and-financial-management/misunderstanding-overhead
 
-[43] Österreichische Forschungsförderungsgesellschaft, *Indirect costs in Horizon Europe - 2025* — https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
+[43] Eckhart-Queenan et al., *Pay-What-It-Takes Philanthropy - 2016* — https://ssir.org/up_for_debate/article/pay_what_it_takes_philanthropy
 
-[44] National Council of Nonprofits, *(Mis)Understanding Overhead* — https://www.councilofnonprofits.org/running-nonprofit/administration-and-financial-management/misunderstanding-overhead
+[44] Mathur, S., *Project portfolio management techniques - 2006* — https://www.pmi.org/learning/library/project-portfolio-management-techniques-7624
 
-[45] Eckhart-Queenan et al., *Pay-What-It-Takes Philanthropy - 2016* — https://ssir.org/up_for_debate/article/pay_what_it_takes_philanthropy
+[45] Ravaghi et al., *Organizational failure and turnaround in public sector organizations: A systematic review of the evidence - 2017* — https://pmc.ncbi.nlm.nih.gov/articles/PMC6109368/
 
-[46] Mathur, S., *Project portfolio management techniques - 2006* — https://www.pmi.org/learning/library/project-portfolio-management-techniques-7624
+[46] Rámec metrik a vyhodnocování pro CČSH — [reserse/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md](reserse/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md)
 
-[47] Ravaghi et al., *Organizational failure and turnaround in public sector organizations: A systematic review of the evidence - 2017* — https://pmc.ncbi.nlm.nih.gov/articles/PMC6109368/
-
-[48] Rámec metrik a vyhodnocování pro CČSH — [reserse/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md](reserse/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md)
-
-[49] Organisation for Economic Co-operation and Development, *Public finance and budgets* — https://www.oecd.org/en/topics/public-finance-and-budgets.html
+[47] Organisation for Economic Co-operation and Development, *Public finance and budgets* — https://www.oecd.org/en/topics/public-finance-and-budgets.html
