@@ -1,4 +1,4 @@
-# Krátký seznam pilotů pro CČSH
+# Krátký seznam pilotních projektů pro CČSH
 
 ## Účel
 
@@ -8,7 +8,7 @@ Cílem je představit inspirativní vzory projektů, které by stálo za to usku
 
 Jde tedy o převod širšího souboru doporučených směrů do krátkého seznamu konkrétních pilotů, které mají pro CČSH vysoký strategický přínos a zároveň ještě realistickou spustitelnost během 12 měsíců.[1] Tento seznam je třeba chápat jako expertní užší výběr odvozený ze syntézy rešerše, nikoli jako mechanický výstup jedné rozhodovací matice.
 
-Jde o záměrně omezený výběr pilotů, které:
+Jde o záměrně omezený výběr pilotních projektů, které:
 
 - testují nejsilnější mechanismy z rešerše
 - nejsou navzájem jen drobnou variantou téhož
@@ -17,7 +17,7 @@ Jde o záměrně omezený výběr pilotů, které:
 
 ## Výběrová logika
 
-Do užšího výběru byly zařazeny piloty, které nejlépe spojují:
+Do užšího výběru byly zařazeny pilotní projekty, které nejlépe spojují:
 
 - vysokou strategickou hodnotu
 - dobrou přenositelnost do podmínek CČSH
@@ -162,7 +162,7 @@ Nebyl preferován:[1]
 
 **Signály úspěchu:**
 
-- lokální piloty nejsou izolované a sdílejí postupy i materiály
+- lokální pilotní projekty nejsou izolované a sdílejí postupy i materiály
 - koordinační vrstva snižuje zátěž jednotlivých míst místo toho, aby ji zvyšovala
 - alespoň jeden pilotní formát lze po roce přenášet do dalšího místa
 
@@ -178,7 +178,7 @@ Nebyl preferován:[1]
 
 **Digitální cesty k místnímu zapojení:** Princip dává smysl, ale v této rešerši ještě nemá dostatečně silnou evidenční bázi, aby patřil mezi první 3 až 5 pilotů.[1]
 
-**Venkovské uzly pro práci s mládeží:** Jsou relevantní, ale jsou více kontextově podmíněné a kapacitně těžší. Pro první vlnu tohoto užšího výběru jsou vhodnější univerzálnější piloty.[1]
+**Venkovské uzly pro práci s mládeží:** Jsou relevantní, ale jsou více kontextově podmíněné a kapacitně těžší. Pro první vlnu tohoto užšího výběru jsou vhodnější univerzálnější pilotní projekty.[1]
 
 **Analogie léčivého společenství pro zranitelné skupiny:** Mechanismus je zajímavý, ale bezpečnostní a personální nároky jsou pro první pilotní vlnu příliš specializované.[1]
 
@@ -186,7 +186,7 @@ Nebyl preferován:[1]
 
 ## Sdílený metodický rámec pro hodnocení po 12 až 24 měsících
 
-Každý pilot má mít vedle vlastních specifických signálů i společný evaluační rámec.[8][9] Smyslem není měřit pouze účast, ale sledovat, zda pilot opravdu vytváří cestu od prvního kontaktu k opakovanému vztahu, roli a hlubšímu zakotvení.[1][8][9]
+Každý pilotní projekt má mít vedle vlastních specifických signálů i společný evaluační rámec.[8][9] Smyslem není měřit pouze účast, ale sledovat, zda pilot opravdu vytváří cestu od prvního kontaktu k opakovanému vztahu, roli a hlubšímu zakotvení.[1][8][9]
 
 ### 1. První kontakt
 

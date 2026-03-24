@@ -22,7 +22,7 @@ Rešerše pokračovala iterativně tak dlouho, dokud další vlna nepřinášela
 
 ## Příklad jednoho srovnatelného případu
 
-Jako ilustrativní církevní vzorek lze uvést projekt `Messy Church`, který vznikl v anglickém prostředí jako nízkoprahový rodinný formát pro lidi s malou nebo žádnou vazbou na běžný církevní život.[5][6] Jeho význam pro naši úvahu nespočívá v tom, že by měl být jednoduše převzat, ale v tom, že je poměrně dobře zdokumentovaný a relativně jasně ukazuje jak silné stránky podobného modelu, tak jeho limity.[5]
+Jako ilustrativní církevní vzorek lze uvést projekt `Messy Church`, který vznikl v anglickém prostředí jako nízkoprahový rodinný formát pro lidi s malou nebo žádnou vazbou na běžný církevní život.[5][6] Jeho význam pro naši úvahu nespočívá v tom, že by měl být jednoduše převzat, ale v tom, že je poměrně dobře zdokumentovaný a relativně jasně ukazuje jak silné stránky podobného modelu tak jeho limity.[5]
 
 Základní mechanismus byl poměrně prostý: pravidelné mezigenerační setkání založené na pohostinnosti, tvořivé aktivitě, společném jídle a krátké bohoslužebné či duchovní části.[5][6] Vstupní práh byl záměrně nízký. Účastník nemusel nejprve přijmout církevní jazyk, mít předchozí znalosti ani vstoupit do klasického sborového rámce. První kontakt byl menší než konečný cíl, což je právě jeden z nejsilnějších vzorců, které rešerše opakovaně nacházela i jinde.[1][3][5]
 
@@ -40,13 +40,13 @@ Třetí závěr je, že nově příchozí člověk nemá zůstávat dlouho pouze
 
 Čtvrtý závěr je, že praktická užitečnost a pohostinnost bývají silným vstupem, ale nemají být zaměněny za samotný cíl.[3][5][8] Otevřený prostor, služba rodinám, péče, pomoc nebo společná činnost mohou vytvářet důvěru a oslabovat bariéry vůči instituci.[5][8] Samy o sobě ale ještě neznamenají víru, hlubší zakotvení ve víře ani stabilní obec.[5][8] Piloty proto mají počítat s tím, že užitečný nebo příjemný kontakt je začátek, nikoli důkaz splněného misijního cíle.[3][8]
 
-Pátý závěr se týká kapacit. Rešerše spíše podporuje lehkou koncentraci energie do několika nosnějších míst než snahu rozjet všechno všude najednou.[3][8] V podmínkách CČSH se jako pravděpodobnější jeví, že skutečně něco ověří několik pečlivě vedených pilotů s vyhodnocením než plošná výzva k aktivitě bez dostatečné podpory.[3][8]
+Pátý závěr se týká kapacit. Rešerše spíše podporuje lehkou koncentraci energie do několika silnějších míst než snahu rozjet všechno všude najednou.[3][8] V podmínkách CČSH se jako pravděpodobnější jeví, že skutečně něco ověří několik pečlivě vedených pilotů s vyhodnocením než plošná výzva k aktivitě bez dostatečné podpory.[3][8]
 
 Z toho všeho plyne i důležitá pojistka pro vyhodnocování. U pilotů nebude stačit sledovat jen návštěvnost, dosah nebo bezprostřední pozitivní ohlas. Důležitější bude, zda vzniká návrat, vztah, malá spoluúčast, srozumitelný další krok a alespoň náznak dlouhodobější nosnosti.[1][3][8] Právě zde se rozhodne, zda pilotní program něco skutečně ověřuje, nebo pouze vytváří dojem pohybu.[3][8]
 
 ## Závěr
 
-Rešerše srovnatelných projektů neříká, že CČSH má převzít některý hotový model. Říká spíše něco střízlivějšího a pro tuto chvíli užitečnějšího: že budoucí pilotní programy mají být malé, záměrně navržené, kontextově citlivé a od počátku připravené k učení.[1][2][3][7][8] Jejich cílem nemá být jen ukázat aktivitu, ale ověřit, jaké vstupní cesty v našem prostředí skutečně pomáhají vzniku pravidelného kontaktu, důvěry, účasti a postupně i nosnějšího společenství.[8]
+Rešerše srovnatelných projektů neříká, že CČSH má převzít některý hotový model. Říká spíše něco střízlivějšího a pro tuto chvíli užitečnějšího: že budoucí pilotní programy mají být malé, záměrně navržené, kontextově citlivé a od počátku připravené k učení.[1][2][3][7][8] Jejich cílem nemá být jen ukázat aktivitu, ale ověřit, jaké vstupní cesty v našem prostředí skutečně pomáhají vzniku pravidelného kontaktu, důvěry, účasti a postupně i životaschopnějšího společenství.[8]
 
 Konkrétní seznam navrhovaných pilotů je přiložen zvlášť. Už nyní je však z rešerše zřejmé, že smysluplné pilotování nemá stát na eventismu, plošném rozmělňování sil ani na domněnce, že samotná vstřícnost stačí.[3][5][8] Má stát na pečlivě připravených a vyhodnocovaných cestách, které propojí malý první krok s možností dalšího návratu, zapojení a růstu.[3][8]
 
