@@ -1,149 +1,104 @@
-# Revidovaná koncepce misie a evangelizace CČSH
+# Koncepce misie a evangelizace CČSH
 
 ## Úvod
 
-Původní koncepce misie a evangelizace CČSH obsahuje řadu cenných a nadále použitelných důrazů. Především správně připomíná, že misie není technika růstu, ale součást identity církve; že jejím středem je evangelium Ježíše Krista; že se má dít bez nátlaku, se svobodou svědomí, s respektem k člověku, v dialogu se současným světem a v návaznosti na tradici CČSH. Stejně cenné je i její široké pojetí misie, které propojuje preevangelizaci, evangelizaci, pastoraci, katechezi, diakonii, práci s různými věkovými skupinami, ekumenu, média a občanské působení.
+Církev československá husitská vznikla z potřeby nést evangelium člověku moderní doby s úctou k jeho svobodě, rozumu, svědomí a hledání. Její identita stojí na Ježíši Kristu, na věrnosti Písmu a starokřesťanské tradici, na odkazu české reformace i na přesvědčení, že víra se má setkávat se současným světem beze strachu a bez nátlaku. Misie proto není zvláštní program vedle života církve. Je to způsob, jímž církev žije, svědčí, slouží a zve.
 
-Právě tato šíře je však zároveň jejím limitem. Dokument dobře vyjadřuje, co vše do misijního poslání církve patří, ale méně přesně rozlišuje, co má být v nejbližších letech skutečně prioritou, podle čeho se to má vyhodnocovat a jaké předpoklady musí církev vytvořit, aby další misijní krok unesla. V prostředí omezených personálních kapacit, omezených financí a oslabené společenské důvěry nestačí mít jen soupis dobrých směrů. Je třeba mít i strategii, která umí rozlišit mezi žádoucím, možným a skutečně nosným.
+Tato koncepce vymezuje společný rámec pro nejbližší období. Zachovává široký misijní horizont CČSH, ale současně jej uspořádává tak, aby bylo zřejmé, co je trvalým základem, co je prioritou nynějšího období, jak mají být ověřovány nové postupy a podle čeho se má posuzovat, zda církev postupuje věrně, odpovědně a s rozlišováním.
 
-Tato revidovaná koncepce proto nepředkládá jinou teologii misie než původní text. Navrhuje spíše jiný způsob jejího praktického uspořádání. Zachovává hlavní duchovní a identitní jádro původního dokumentu, ale doplňuje je o strategickou a operační vrstvu: o užší výběr priorit, o logiku pilotních projektů, o investici do rozvoje nositelů služby, o víceúrovňové metriky, o rozhodovací kritéria a o střízlivější práci s kapacitou církve.[1][2][3]
+## Teologická a identitní východiska
 
-## 1. Co má z původní koncepce zůstat
+Středem misie CČSH je evangelium Ježíše Krista. Misie nevzniká z potřeby instituce rozšiřovat vlastní vliv, ale z Božího poslání, jehož je církev účastna. Církev vyznává Krista jako Pána života, který posílá své učedníky ke všem lidem a dává jim sílu svědčit slovem i činem.
 
-Revidovaná koncepce navazuje zejména na tyto body původního dokumentu:
+Z toho plyne několik trvalých zásad. Misie je nenátlaková a respektuje svobodu svědomí. Je dialogická a umí naslouchat otázkám, pochybnostem i zkušenostem dnešního člověka. Je věrohodná jen tehdy, když se opírá o věrohodný život církve, o modlitbu, službu, prostotu, řád, schopnost nést vlastní břímě a ochotu nést břemena druhých.
 
-- misie CČSH je součástí poslání církve a jejím středem je evangelium Ježíše Krista
-- misie se má dít bez nátlaku, s respektem ke svobodě svědomí a v duchu dialogu
-- misie se neomezuje na kázání, ale zahrnuje i svědectví života, pohostinnost, službu, pastoraci a katechezi
-- církev má naslouchat znamením času a být přítomna u skutečných problémů současného světa
-- práce s mladými lidmi, rodinami, hledajícími i sociálně zranitelnými skupinami patří k legitimním misijním důrazům
-- pro CČSH je přirozený dialog s vědou, kulturou, občanskou společností a ekumenickými partnery
-- misie začíná v každodenním životě a její věrohodnost závisí i na kvalitě života samotné církve
+Do misijního poslání patří zvěstování i doprovázení. Patří sem preevangelizace, evangelizace, pastorace i katecheze. Preevangelizace otevírá prostor pro první dotek s vírou a pro zcitlivění vůči duchovnímu rozměru života. Evangelizace svědčí o Kristu a zve k víře. Pastorace doprovází konkrétní lidské situace. Katecheze prohlubuje porozumění víře a pomáhá zakotvení ve společenství.
 
-Tyto body není třeba opouštět. Je však třeba je nově uspořádat tak, aby z nich nevznikl jen souhrn aktivit, ale říditelný rámec pro rozhodování.
+CČSH přitom zůstává církví, která vede rozhovor se světem vědy, kultury, občanské společnosti i ekumeny. Bere vážně důstojnost člověka, sociální zranitelnost, ekologickou odpovědnost i zápas o pravdu a spravedlnost. Tato otevřenost není únikem od evangelia. Je způsobem, jak se evangelium stává přítomným uprostřed skutečného života.
 
-## 2. Základní teze revidované koncepce
+## Kvalita církve jako misijní předpoklad
 
-### 2.1 Cílem misie není pouze první kontakt, ale cesta k trvalejšímu vztahu
+Misie se neopírá jen o otevřenost církve vůči okolnímu světu. Opírá se také o skutečnou kvalitu života církve samotné. Lidé si důvěru nevytvářejí pouze podle toho, zda jsou vítáni, ale také podle toho, zda církev působí kompetentně, srozumitelně, spolehlivě a s dobrou úrovní vztahů i služeb.
 
-Za misijní úspěch nelze považovat samotnou návštěvnost, mediální dosah ani jednorázovou přitažlivost akce. Misijně cenný je takový krok, který pomáhá člověku přejít od prvního kontaktu k návratu, od návratu k důvěře, od důvěry k malé spoluúčasti a odtud k hlubšímu vztahu, formaci a zakotvení v živém společenství.[2] Církev proto nemá hodnotit jen to, zda někoho oslovila, ale i to, zda byla schopna navázat dalším krokem.
+Kvalita církevního života se promítá do způsobu bohoslužby, do pastorace, do komunikace, do organizace, do vedení i do péče o lidi. Tam, kde je řád, jasnost, vstřícnost a schopnost dobré spolupráce, vzniká důvěra, která podporuje návrat, doporučení dalším lidem i organičtější růst společenství.
 
-### 2.2 Misie musí být spojena s rozvojem vlastní kompetence církve
+Proto je součástí misijní koncepce také systematická péče o kvalitu. Nejde jen o vnitřní disciplínu, ale o přímý misijní faktor: církev, která umí dobře sloužit, lépe zve, přirozeněji roste a věrohodněji komunikuje evangelium.
 
-Má-li církev zvát nové lidi, musí jim být schopna nabídnout nejen otevřené dveře, ale i věrohodné pokračování. To předpokládá lidi, kteří umějí vytvářet bezpečné prostředí, vést rozhovor, navázat vztah, doprovázet, vést malou komunitu a spolupracovat s druhými. Misijní strategie proto nemůže stát odděleně od strategie rozvoje. Součástí misijní práce musí být také průběžná podpora duchovních, laiků a dalších nositelů služby, kteří nesou církevní život nejblíže lidem.[3]
+## Cíl misie CČSH
 
-### 2.3 V podmínkách CČSH je vhodnější pilotování než plošná výzva k aktivitě
+Cílem misie CČSH není pouze první kontakt s člověkem, ale cesta, která může pokračovat. První oslovení má směřovat k návratu, návrat k důvěře, důvěra k prvotnímu zapojení a prvotní zapojení k hlubšímu vztahu, formaci a zakotvení ve společenství. Ne každé setkání projde všemi stupni, ale každá misijní služba má mít patrnou navazující cestu.
 
-Rešerše i dosavadní zkušenost spíše podporují menší počet pečlivě připravených a vyhodnocovaných pilotních projektů než plošný apel, aby každá náboženská obec dělala vše.[1][2] Revidovaná koncepce proto doporučuje soustředit omezené kapacity do několika realistických pilotů, na nichž bude možné sledovat, co v našem prostředí skutečně funguje.
+Misie má zároveň dvě roviny cíle. V teologické rovině je cílem, aby člověk rostl ve vztahu ke Kristu, v důvěře v evangelium a v životě víry. V rovině církevní je žádoucí, aby nově příchozí nebyli pouze příjemci služby, ale postupně se podle svých darů, možností a cesty stávali spoluúčastníky života církve. To může mít podobu členství, pravidelné účasti, služebné spolupráce, finanční podpory, převzetí dílčí odpovědnosti nebo jiného podílu na společném díle.
 
-### 2.4 Misie má být řízena nejen přes témata, ale i přes kritéria
+Za úspěch nelze považovat samotnou návštěvnost, mediální viditelnost ani jednorázový dojem. Misijně hodnotná je taková služba, která umí člověka pozvat dál a dát mu možnost pokračovat v přirozeném rytmu. Pokud nějaká aktivita vytvoří dobrý první kontakt, ale nenabídne žádnou další cestu, zůstává cenným svědectvím církve, nikoli plně rozvinutou misijní cestou.
 
-Nestačí určit, že se chceme věnovat dětem, mládeži, rodinám, médiím nebo veřejnému prostoru. Je třeba zároveň určit, podle jakých kritérií budeme rozhodovat, co podpořit, co utlumit, co rozšířit a co poctivě uznat jako slepou cestu. Bez tohoto kroku hrozí, že si církev splete pohyb s účinkem a aktivitu s misijní nosností.[1]
+## Strategické principy pro současné období
 
-## 3. Strategická organizace misie CČSH
+Současné období vyžaduje soustředění, střízlivost a jasnou metodiku. Církev má vybrat přiměřený počet cest, které dokáže dobře připravit, poctivě podpořit a odpovědně vyhodnotit. Z toho plynou tyto principy:
 
-### 3.1 Tři souběžné roviny
+- pečlivě zvolený počet misijních cest s jasným cílem
+- pravidelný rytmus místo nahodilých jednorázových akcí
+- bezpečný a srozumitelný vstup pro nově příchozí
+- jasně pojmenovaná navazující cesta po prvním kontaktu
+- průběžná podpora lidí, kteří službu nesou
+- rozhodování na základě zkušenosti, empirie a poctivého vyhodnocení
 
-Misie CČSH má být v příštích letech organizována ve třech navzájem propojených rovinách:
+Takový postup je formou odpovědného vedení církve. Církev má vyhlásit jen to, co dokáže dlouhodobě a důstojně nést. Vybrané cesty mají být opřeny o realistické kapacity, dobré vedení a dostatečné zázemí, aby mohly skutečně sloužit a nezůstaly jen u deklarace.
 
-1. běžná misijní přítomnost církve
-2. pilotní ověřování nových nebo posílených vstupních cest
-3. rozvoj nositelů služby a komunitní kapacity
+Součástí strategie je i rozvoj nositelů služby. Misie nestojí jen na dobrých nápadech, ale na lidech, kteří umějí naslouchat, vést rozhovor, vytvářet bezpečné prostředí, zakládat malé skupiny, doprovázet a spolupracovat. Proto má být přirozenou součástí misijní koncepce mentoring, sdílení zkušeností, hospitace, supervize a další formy podpory.
 
-První rovina znamená pokračování přirozené misie v každodenním životě církve: bohoslužby, svátosti, pastorace, výuka, vztahy, lokální přítomnost, diakonická a občanská služba, práce s médii, ekumenická spolupráce a kontakt s veřejností. Tato rovina zůstává důležitá a původní koncepce ji správně popisuje.
+Součástí této strategie má být také konkrétní vyhrazení vnitrocírkevních kapacit pro vzájemný mentoring a zajištění externích zdrojů pro supervizi a koučing. Nejde o vedlejší doplněk, ale o přímý předpoklad, aby lidé nesoucí službu mohli růst v kompetenci, unášet zátěž, reflektovat vlastní praxi a zvyšovat kvalitu církevního života i misijní práce.
 
-Druhá rovina znamená soustředěné ověřování několika konkrétních mechanismů, které mají šanci otevírat nové vstupní cesty v sekularizovaném prostředí. Sem patří zejména pravidelné rodinné a mezigenerační formáty, nízkoprahové cesty pro duchovně hledající, praktické sousedské formáty založené na užitečnosti a pohostinnosti a lehká regionální podpora pro několik pilotních míst.[2]
+## Organizace a úrovně odpovědnosti
 
-Třetí rovina znamená cílené posilování lidí, kteří tyto procesy nesou. Bez této třetí roviny se první dvě budou dříve nebo později opírat o přetížené jednotlivce, symbolické nadšení nebo provozní improvizaci.[3]
+Misijní odpovědnost má být sdílená, ale ne rozostřená. Každá úroveň církve má svou roli.
 
-### 3.2 Rozdělení odpovědnosti
+Celocírkevní úroveň určuje teologický a metodický rámec, společná hlediska, společný jazyk a způsob posouzení. Má také pečovat o sdílení dobré praxe, o školení nositelů služby a o to, aby se zkušenosti z jednotlivých míst proměňovaly ve společné učení církve.
 
-Celocírkevní úroveň má zodpovídat zejména za metodický rámec, základní metriky, sdílení zkušeností a pravidelné vyhodnocování. Nemá řídit každý detail místní práce, ale má vytvářet společný rámec, v němž lze místní a diecézní kroky porovnávat, reflektovat a společně se z nich učit.
+Diecézní úroveň nese výběr priorit, koordinaci ověřovaných okruhů a odpovědné hospodaření. Právě zde se rozhoduje, co je možné podpořit, kde je třeba soustředit síly a které obce mají být v daném období nositeli služby, které podpůrným zázemím a které potřebují především stabilizaci vlastní základní životaschopnosti.
 
-Diecézní úroveň má nést výběr priorit a rozpočtovou logiku, protože právě na této úrovni se reálně rozhoduje o dostupných prostředcích a o tom, co je v daném období možné bezpečně pokrýt. Vedle toho má mít i koordinační a podpůrnou roli: vybírat vhodná pilotní místa, propojovat lidi, podporovat mentoring, sdílení materiálů, reflexi praxe a přenos zkušeností mezi obcemi. Tento organizační překlad principu koncentrace kapacit je však třeba chápat jako pracovní hypotézu pro pilotní ověření v podmínkách CČSH, nikoli jako již potvrzený model.
+Na úrovni náboženských obcí se koná konkrétní praxe. Zde se odehrává pohostinnost, kontakt s lidmi, práce s rodinami, doprovázení, veřejná přítomnost i malé skupiny. Ne každá obec však musí dělat všechno. Některé obce budou nositeli pilotních ověřování, jiné je budou podporovat a další se v určitém období soustředí hlavně na obnovu a prohloubení vlastního společenství.
 
-Na úrovni náboženských obcí mají probíhat konkrétní místní realizace. Ne každá obec však musí dělat totéž. Revidovaná koncepce výslovně připouští, že v některých obcích proběhne pilot, jiné budou spíše podpůrným zázemím a jiné se v daném období soustředí na obnovu základní životaschopnosti.
+Konkrétní misijní praxe může být zastávána i zvlášť vyhrazenými centry, nejen náboženskými obcemi samotnými. Vždy je ale žádoucí vybodovat přirozený kanál z misijní činnosti do náboženských obcí, aby se z ní nestala izolovaná aktivita, ale aby se její účastníci mohli přirozeně zapojit do života církve.
 
-## 4. Prioritní obsah pro nejbližší období
+## Pilotní rámec a metodika
 
-### 4.1 Pilotní projekty
+Pilotní projekty mají být především metodickým nástrojem. Jejich smyslem je ověřit, jaké formy misijní služby jsou v prostředí CČSH životaschopné, srozumitelné a dlouhodobě udržitelné. Koncepce proto nemá uzavírat církev do jediného modelu, ale stanovit rámec, podle něhož se piloty navrhují, vedou, podporují a vyhodnocují.
 
-Pro první vlnu ověřování se jako nejvhodnější jeví menší počet pilotů, které testují různé vstupní mechanismy:
+Každý pilot má mít jasně určený cíl, nositele, rytmus, rozpočet, způsob doprovázení a kritéria posouzení. Má být zřejmé, jaká vstupní cesta se otevírá, jak může pokračovat a co se od něj očekává po stránce duchovní, vztahové i organizační. Součástí pilotní metodiky má být také průběžné sdílení zkušeností, aby se dobrá praxe nepřestávala u jednoho místa, ale proměňovala se ve společné učení církve.
 
-- krátké pravidelné rodinné setkání s jasným dalším krokem
-- cesta pro duchovně hledající založená na malém prvním kroku, rozhovoru a opakovaném setkávání
-- praktický sousedský formát, který propojuje užitečnost, pohostinnost a možnost malé role pro nově příchozí
-- lehký regionální uzel, který poskytuje mentoring, sdílení materiálů a jednoduchou evaluaci pro několik míst zároveň
+Konkrétní modely pilotů mohou vycházet z různých prostředí, například z rodin a mezigeneračních setkávání, z cesty pro duchovně hledající, ze sousedské a veřejně užitečné služby nebo z digitální a mediální přítomnosti. Tyto modely však mají být chápány jako předběžné příklady, nikoli jako uzavřený seznam nebo definitivní návrh realizace.
 
-Tyto piloty nemají být chápány jako nové programové povinnosti pro všechny, ale jako testování přínosných mechanismů, z nichž se církev může poučit pro další rozhodování.[2]
+V nynějším období se navrhují čtyři pilotní okruhy: jeden zaměřený na rodiny a mezigenerační setkávání, jeden na duchovně hledající, jeden na sousedskou a veřejně užitečnou službu a jeden na digitální a mediální přítomnost. Jejich detailní rozpracování, včetně konkrétních variant a důvodů výběru, má být vedeno v samostatných materiálech k pilotním návrhům a jejich průběžnému vyhodnocování.
 
-### 4.2 Rozvoj lidí a služeb
+## Širší misijní pole CČSH
 
-Souběžně s piloty má být zaveden průběžný rozvojový rámec, zaměřený zejména na:
+Širší misijní pole zůstává plně zachováno. Patří sem práce s dětmi, mládeží, rodinami i seniory, kaplanská služba, pastorace nemocných, výuka náboženství, duchovní doprovázení, veřejná služba, diakonie, občanská angažovanost, ekumenická spolupráce a dialog s kulturou i vědou.
 
-- dobrovolný peer mentoring a sdílení zkušeností
-- dostupnou externí odbornou podporu včetně koučování nebo supervize
-- vzájemné hospitace a společnou reflexi praxe
-- rozvoj vztahových, komunikačních, organizačních a digitálních dovedností
-- podporu pastorační a lidské zralosti
+Tato pole mají trvalou hodnotu, ale ne všechna musejí být v každém období hlavními piloty. Církev je má posuzovat podle toho, zda vytvářejí první kontakt, zda umožňují návrat, zda podporují vztah a zda mají realistickou kapacitu. Univerzální poslání církve neznamená strategickou beztvarost.
 
-Nejde o vedlejší doplněk, ale o přímou součást misijní strategie. Církev, která se snaží zvát bez toho, aby rozvíjela svou vlastní kompetenci, riskuje, že vyvolá očekávání, která nebude moci unést.[3]
+Zvláštní pozornost si zasluhují mladí lidé, rodiny, lidé na okraji, hledající a ti, kdo se do církve vracejí po delší přestávce. Stejně důležitá je služba ve školách, v sociálních službách, v nemocnicích, v domovech seniorů i ve veřejném prostoru, kde CČSH může přinášet křesťansky motivovanou odpověď na otázky současnosti.
 
-### 4.3 Zachování širšího misijního pole
+## Posouzení, časový rámec a zdroje
 
-Revidovaná koncepce neopouští ani další pole zmíněná v původním dokumentu: práci s dětmi, mládeží a seniory, média, kaplanskou službu, občanskou angažovanost, ekumenu ani dialog s vědou a kulturou. Nechce je však všechny současně prohlásit za stejně prioritní operační úkol. V nejbližším období mají být tato pole posuzována podle toho, zda:
+Misijní koncepce potřebuje jednoduché, ale poctivé posuzování. U každého ověřovaného okruhu nebo významnější iniciativy má být zřejmé:
 
-- pomáhají vytvářet první kontakt, návrat a vztah
-- mají dostatečného nositele a realistickou kapacitu
-- navazují na další krok, nikoli jen na jednorázovou akci
-- lze u nich rozumně vyhodnotit přínos
+- koho oslovila a zda šlo i o lidi mimo běžný církevní okruh
+- zda se lidé v rozumném čase vracejí
+- zda mají možnost vstoupit citlivě a po malých krocích
+- zda vzniká stabilnější vztah, skupina nebo doprovázení
+- zda se otevírá prostor pro katechezi, modlitbu a svátostný život
+- zda služba stojí na přiměřené a dlouhodobě udržitelné kapacitě
+- zda jde o skutečně nový impuls, nebo jen o přesun již zapojených lidí
 
-## 5. Metriky a rozhodovací kritéria
+Smyslem těchto hledisek není byrokracie. Smyslem je, aby církev uměla odlišit nadšení od skutečného přínosu a aby se mohla z praxe učit bez sebeklamu.
 
-Každý podporovaný pilot i významnější misijní iniciativa mají být hodnoceny alespoň v těchto vrstvách:
+Časový rámec koncepce je třífázový. V prvních dvanácti měsících má církev vybrat ověřované okruhy, určit odpovědnosti, nastavit základní sledování a otevřít podporu pro nositele služby. V následujících dvanácti až čtyřiadvaceti měsících má probíhat průběžné posuzování a úpravy. Po dvou letech má církev rozhodnout, co rozšířit, co změnit a co ukončit.
 
-1. první kontakt: koho oslovily a zda šlo i o lidi mimo běžný církevní okruh
-2. návrat: zda se lidé vracejí v rozumném časovém horizontu
-3. malá role: zda nově příchozí dostávají možnost bezpečné malé spoluúčasti
-4. přechod do stabilnějšího vztahu: zda vzniká skupina, doprovázení, pravidelný kruh nebo jiná forma zakotvení
-5. hlubší formace: zda je otevřen prostor pro modlitbu, katechezi, svátostný a komunitní život
-6. udržitelnost: zda iniciativa nestojí jen na heroickém výkonu několika jednotlivců
-7. typ růstu: zda iniciativa přivádí převážně nové lidi mimo běžný církevní okruh, nebo spíše přesouvá lidi již zapojené jinde
-
-Smyslem těchto metrik není zavést byrokratickou kontrolu, ale umožnit církvi učit se z vlastní praxe. Metriky mají chránit před dvěma omyly zároveň: před rezignací i před sebeklamem.[1]
-
-## 6. Časový rámec
-
-Revidovaná koncepce předpokládá tři základní fáze:
-
-### 6.1 První fáze: 12 měsíců
-
-V prvním roce má církev vybrat omezený počet pilotních míst, určit zodpovědné činitele, zavést jednoduchý evaluační rámec a současně otevřít první rozvojové mechanismy pro duchovní a laiky, kteří konají službu.
-
-### 6.2 Druhá fáze: 12 až 24 měsíců
-
-Ve druhé fázi má proběhnout průběžné vyhodnocení. Církev se nemá ptát jen, co bylo nejviditelnější, ale co nejlépe převádělo první kontakt do návratu, vztahu a spoluúčasti a co bylo dlouhodobě únosné.
-
-### 6.3 Třetí fáze: po 24 měsících
-
-Teprve po této zkušenosti je vhodné rozhodovat, které mechanismy rozšířit, které upravit, které ukončit a kde naopak investovat více. Rozšiřování bez této mezifáze by bylo spíše rozmělňováním sil než odpovědnou strategií.
-
-## 7. Rozpočtová a kapacitní střízlivost
-
-Revidovaná koncepce předpokládá, že misie nebude financována jen symbolicky. Každá priorita má mít alespoň orientačně pojmenované náklady včetně času, koordinace, podpory a vyhodnocení. Vedle plně kryté varianty má být určena i minimálně životaschopná varianta. Pokud ani tu nelze nést, je poctivější to přiznat, než deklarovat prioritu bez reálných podmínek.[3]
-
-Součástí rozpočtové debaty má být i otázka, odkud církev odkloní část prostředků, pokud to dlouhodobě nevede k misijnímu ani rozvojovému přínosu. Bez této otázky se nová strategie snadno změní jen v další vrstvu položenou na už přetížený provoz.
+S tím souvisí i potřeba jasně vymezených zdrojů. Každá priorita má mít nejen obsah, ale také odpovídající čas, koordinaci, odborné zázemí, finanční krytí a průběžnou podporu lidí, kteří ji nesou. Pokud chce církev některý směr skutečně rozvíjet, má mu věnovat dostatečné kapacity od počátku; jinak zůstane jen deklarací.
 
 ## Závěr
 
-Budoucnost misie CČSH nezávisí jen na tom, zda církev správně pojmenuje své ideály, ale i na tom, zda dokáže vytvořit realistický přechod mezi teologickou vizí a praktickým jednáním. Původní koncepce tento ideový a duchovní základ ve značné míře nabízí. Revidovaná koncepce k němu doplňuje potřebné strategické otázky: co je v příštích letech prioritní, co budeme skutečně ověřovat, jak poznáme, že něco nese ovoce, a jak posílíme lidi a komunity, kteří mají misijní krok podniknout.
+Misie CČSH je odpovědí na Kristovo poslání v podmínkách současného světa. Má zůstávat věrná evangeliu, svobodě svědomí, dialogu, ekumeně, vědeckému poznání i skutečným otázkám lidského života. Zároveň potřebuje řád, priority, kvalitu a odpovědnost, aby se její šíře nestala rozptýlením.
 
-Smyslem této revize není zužovat misii církve na několik technik ani nahrazovat duchovní rozměr manažerským jazykem. Smyslem je dát misijnímu poslání CČSH podobu, která bude v současném prostředí realističtější, odpovědnější a použitelnější pro další společné rozhodování.
-
-## Reference
-
-[1] Srovnatelné projekty a pilotní programy — [01-srovnatelne-projekty.md](01-srovnatelne-projekty.md)
-
-[2] Krátký seznam pilotů pro CČSH — [03-navrhovane-piloty.md](03-navrhovane-piloty.md)
-
-[3] Investice do rozvoje — [04-investice-do-rozvoje.md](04-investice-do-rozvoje.md)
+Tato koncepce proto drží pohromadě to, co k CČSH patří od počátku: evangelium Ježíše Krista, otevřenost člověku, věrohodnost života církve a službu světu bez nátlaku. K tomu přidává současný strategický rámec: cestu návratu, několik ověřovaných okruhů, pilotní metodiku, úrovně odpovědnosti, srozumitelné mezníky, časový horizont a dostatečné zajištění zdrojů. Církev tak může postupovat věrně, srozumitelně a s nadějí na organický růst.
