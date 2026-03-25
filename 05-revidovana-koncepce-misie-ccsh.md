@@ -65,17 +65,17 @@ Konkrétní misijní praxe může být zastávána i zvlášť vyhrazenými cent
 
 Pilotní projekty mají být především metodickým nástrojem. Jejich smyslem je ověřit, jaké formy misijní služby jsou v prostředí CČSH životaschopné, srozumitelné a dlouhodobě udržitelné. Koncepce proto nemá uzavírat církev do jediného modelu, ale stanovit rámec, podle něhož se piloty navrhují, vedou, podporují a vyhodnocují.
 
-Každý pilot má mít jasně určený cíl, nositele, rytmus, rozpočet, způsob doprovázení a kritéria posouzení. Má být zřejmé, jaká vstupní cesta se otevírá, jak může pokračovat a co se od něj očekává po stránce duchovní, vztahové i organizační. Součástí pilotní metodiky má být také průběžné sdílení zkušeností, aby se dobrá praxe nepřestávala u jednoho místa, ale proměňovala se ve společné učení církve.
+Každý pilot má mít jasně určený cíl, nositele, rytmus, rozpočet, způsob doprovázení a kritéria posouzení. Má být zřejmé, jaká vstupní cesta se otevírá, jak může pokračovat a co se od něj očekává po stránce duchovní, vztahové i organizační. Součástí pilotní metodiky má být také průběžné sdílení zkušeností, aby dobrá praxe nezůstávala u jednoho místa, ale obohatila celou církev.
 
-Konkrétní modely pilotů mohou vycházet z různých prostředí, například z rodin a mezigeneračních setkávání, z cesty pro duchovně hledající, ze sousedské a veřejně užitečné služby nebo z digitální a mediální přítomnosti. Tyto modely však mají být chápány jako předběžné příklady, nikoli jako uzavřený seznam nebo definitivní návrh realizace.
+Navrhnout konkrétní pilotní projekty je mimo rámec misijní koncepce. Krom toho je nezbytné je tvořit s ohledem na realizační tým, místo a aktuální podmínky. Jsou zde však předloženy modely, které mají vytvořit představu o tom, jak může vhodný misijní pilotní projekt vypadat. Tyto modely vycházejí ze studie, jež je přílohou k této misijní koncepci.
 
-V nynějším období se navrhují čtyři pilotní okruhy: jeden zaměřený na rodiny a mezigenerační setkávání, jeden na duchovně hledající, jeden na sousedskou a veřejně užitečnou službu a jeden na digitální a mediální přítomnost. Jejich detailní rozpracování, včetně konkrétních variant a důvodů výběru, má být vedeno v samostatných materiálech k pilotním návrhům a jejich průběžnému vyhodnocování.
+Jeden je zaměřený na rodiny a mezigenerační setkávání, jeden na duchovně hledající, jeden na sousedskou a veřejně užitečnou službu a jeden na podporu jiných pilotních programů.
 
 ## Širší misijní pole CČSH
 
 Širší misijní pole zůstává plně zachováno. Patří sem práce s dětmi, mládeží, rodinami i seniory, kaplanská služba, pastorace nemocných, výuka náboženství, duchovní doprovázení, veřejná služba, diakonie, občanská angažovanost, ekumenická spolupráce a dialog s kulturou i vědou.
 
-Tato pole mají trvalou hodnotu, ale ne všechna musejí být v každém období hlavními piloty. Církev je má posuzovat podle toho, zda vytvářejí první kontakt, zda umožňují návrat, zda podporují vztah a zda mají realistickou kapacitu. Univerzální poslání církve neznamená strategickou beztvarost.
+Tato pole mají trvalou hodnotu, ale ne všechna musejí být v každém období hlavní náplní misijního programu. Církev je má posuzovat podle toho, zda vytvářejí první kontakt, zda umožňují návrat, zda podporují vztah a zda mají realistickou kapacitu. Univerzální poslání církve neznamená strategickou beztvarost.
 
 Zvláštní pozornost si zasluhují mladí lidé, rodiny, lidé na okraji, hledající a ti, kdo se do církve vracejí po delší přestávce. Stejně důležitá je služba ve školách, v sociálních službách, v nemocnicích, v domovech seniorů i ve veřejném prostoru, kde CČSH může přinášet křesťansky motivovanou odpověď na otázky současnosti.
 
@@ -101,4 +101,4 @@ S tím souvisí i potřeba jasně vymezených zdrojů. Každá priorita má mít
 
 Misie CČSH je odpovědí na Kristovo poslání v podmínkách současného světa. Má zůstávat věrná evangeliu, svobodě svědomí, dialogu, ekumeně, vědeckému poznání i skutečným otázkám lidského života. Zároveň potřebuje řád, priority, kvalitu a odpovědnost, aby se její šíře nestala rozptýlením.
 
-Tato koncepce proto drží pohromadě to, co k CČSH patří od počátku: evangelium Ježíše Krista, otevřenost člověku, věrohodnost života církve a službu světu bez nátlaku. K tomu přidává současný strategický rámec: cestu návratu, několik ověřovaných okruhů, pilotní metodiku, úrovně odpovědnosti, srozumitelné mezníky, časový horizont a dostatečné zajištění zdrojů. Církev tak může postupovat věrně, srozumitelně a s nadějí na organický růst.
+Tato koncepce proto drží pohromadě to, co k CČSH patří od počátku: důraz na pravdivost, modernitu, věrohodnost života církve, svědectví evangelia, svobodu svědomí a službu bližnímu bez nátlaku. K tomu přidává současný strategický rámec: cestu návratu, několik ověřovaných okruhů, pilotní metodiku, úrovně odpovědnosti, srozumitelné mezníky, časový horizont a dostatečné zajištění zdrojů. Církev tak může postupovat věrně, srozumitelně a s nadějí na organický růst.
