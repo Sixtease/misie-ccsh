@@ -49,6 +49,10 @@ Nebyl preferován:[1]
 
 **Vhodný kontext spuštění:** Místo, kde už existuje aspoň malá schopnost pracovat s rodinami nebo kde se ukazuje přirozený kontakt s rodiči přes školu, obec nebo příležitostné církevní služby.
 
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** Po společném úvodním rodinném bloku se skupina na kratší dobu rozdělí: potřebné minimum lidí si vezme bokem děti do jednoduchého programu a ostatní vytvoří rodičovský kruh. V kruhu se pracuje s jedním srozumitelným tématem z rodičovského a vztahového života, například výchova, únava, konflikty, hranice nebo rodinný rytmus. Každý může podle jednoduchých pravidel kruhu sdílet, pokud chce. Lidé, kteří jsou s dětmi, se mezi jednotlivými setkáními střídají, aby se role nerozpadly na stálé jádro a aby i novější účastníci mohli postupně nést malou bezpečnou spoluodpovědnost. Smyslem je, aby se rodiče nevraceli jen na program pro děti, ale i kvůli vlastní zkušenosti vztahu, sdílení a malé roli v nesení formátu.
+
+**Navrhovaný mechanismus pro včlenění spirituality:** Rodičovský kruh se zahajuje a zakončuje krátkou kontextovou modlitbou navázanou na téma setkání a na to, co rodiče skutečně žijí. Spiritualita zde není oddělený blok navíc, ale jemně přirozená součást společného nesení života před Bohem. Tím se má vytvářet zkušenost, že modlitba není cizí přídavek, ale způsob, jak společně pojmenovat vděčnost, starost, prosbu a naději uprostřed běžného rodinného života.
+
 **Hlavní rizika:**
 
 - zůstane to jen příjemnou rodinnou akcí
@@ -83,6 +87,10 @@ Nebyl preferován:[1]
 - někdo, kdo ponese osobní navázání na účastníky
 
 **Vhodný kontext spuštění:** Město nebo větší obec, kde existuje okruh lidí otevřených tématům smyslu, spirituality nebo modlitby, ale s nízkou ochotou vstoupit rovnou do běžného farního života.
+
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** Placeholder k doplnění. Zde má být popsáno, jak se účastník posouvá od prvního kontaktu k opakovanému zapojení, malé roli a dalšímu kroku.
+
+**Navrhovaný mechanismus pro včlenění spirituality:** Placeholder k doplnění. Zde má být popsáno, jak je spiritualita nesena jako přirozený most od hledání k dalšímu rozhovoru, modlitbě a komunitě.
 
 **Hlavní rizika:**
 
@@ -119,6 +127,10 @@ Nebyl preferován:[1]
 
 **Vhodný kontext spuštění:** Fara nebo komunitní prostor v místě, kde je šance navázat na sousedské vztahy, lokální potřeby a praktické dovednosti.
 
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** Placeholder k doplnění. Zde má být popsáno, jak nově příchozí rychle dostávají malou bezpečnou roli a proč by se měli vracet nejen jako příjemci, ale i jako spoluúčastníci.
+
+**Navrhovaný mechanismus pro včlenění spirituality:** Placeholder k doplnění. Zde má být popsáno, jak se praktická užitečnost propojuje s modlitbou, reflexí, rozhovorem a další cestou do komunity.
+
 **Hlavní rizika:**
 
 - vše zůstane u služby veřejnosti bez cesty ke komunitě
@@ -153,6 +165,10 @@ Nebyl preferován:[1]
 - jasné vymezení, co uzel skutečně nese
 
 **Vhodný kontext spuštění:** Region s několika blízkými obcemi nebo městy, kde už existují slabší místní jednotky, ale také alespoň jedno místo schopné nést koordinační roli.
+
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** Placeholder k doplnění. Zde má být popsáno, jak uzel pomáhá lokálním pilotům navrhovat malé role, navazování a opakovatelný rytmus tak, aby návratovost nezůstala jen na improvizaci jednotlivých míst.
+
+**Navrhovaný mechanismus pro včlenění spirituality:** Placeholder k doplnění. Zde má být popsáno, jak uzel podporuje přenos jednoduchých duchovních praktik, jazyků a navazujících cest bez centralistického vnucování jedné formy.
 
 **Hlavní rizika:**
 
