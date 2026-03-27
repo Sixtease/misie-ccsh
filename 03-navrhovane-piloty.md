@@ -49,15 +49,16 @@ Nebyl preferován:[1]
 
 **Vhodný kontext spuštění:** Místo, kde už existuje aspoň malá schopnost pracovat s rodinami nebo kde se ukazuje přirozený kontakt s rodiči přes školu, obec nebo příležitostné církevní služby.
 
-**Navrhovaný mechanismus pro podporu participace a návratovosti:** Po společném úvodním rodinném bloku se skupina na kratší dobu rozdělí: potřebné minimum lidí si vezme bokem děti do jednoduchého programu a ostatní vytvoří rodičovský kruh. V kruhu se pracuje s jedním srozumitelným tématem z rodičovského a vztahového života, například výchova, únava, konflikty, hranice nebo rodinný rytmus. Každý může podle jednoduchých pravidel kruhu sdílet, pokud chce. Lidé, kteří jsou s dětmi, se mezi jednotlivými setkáními střídají, aby se role nerozpadly na stálé jádro a aby i novější účastníci mohli postupně nést malou bezpečnou spoluodpovědnost. Smyslem je, aby se rodiče nevraceli jen na program pro děti, ale i kvůli vlastní zkušenosti vztahu, sdílení a malé roli v nesení formátu.
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** Po společném úvodním rodinném bloku se formát na kratší dobu rozdělí: potřebné minimum lidí si vezme bokem děti do jednoduchého programu a ostatní vytvoří rodičovský kruh. Kruh pracuje s jedním srozumitelným tématem z rodičovského a vztahového života, například výchova, únava, konflikty, hranice nebo rodinný rytmus, a každý může podle jednoduchých pravidel sdílet, pokud chce. Lidé, kteří jsou s dětmi, se mezi jednotlivými setkáními střídají, aby se nesení formátu nerozpadlo na stálé jádro a aby i novější účastníci mohli postupně převzít malou bezpečnou spoluodpovědnost. Návratovost zde nemá nést jen program pro děti, ale i zkušenost vztahu, sdílení a malé role v životě skupiny.
 
-**Navrhovaný mechanismus pro včlenění spirituality:** Rodičovský kruh se zahajuje a zakončuje krátkou kontextovou modlitbou navázanou na téma setkání a na to, co rodiče skutečně žijí. Spiritualita zde není oddělený blok navíc, ale jemně přirozená součást společného nesení života před Bohem. Tím se má vytvářet zkušenost, že modlitba není cizí přídavek, ale způsob, jak společně pojmenovat vděčnost, starost, prosbu a naději uprostřed běžného rodinného života.
+**Navrhovaný mechanismus pro včlenění spirituality:** Rodičovský kruh se zahajuje a zakončuje krátkou kontextovou modlitbou navázanou na téma setkání a na to, co rodiče skutečně žijí. Spiritualita zde nemá být odděleným blokem navíc, ale přirozenou součástí společného nesení života před Bohem. Smyslem je, aby modlitba nepůsobila jako cizí přídavek, ale jako způsob, jak společně pojmenovat vděčnost, starost, prosbu a naději uprostřed běžného rodinného života.
 
 **Hlavní rizika:**
 
 - zůstane to jen příjemnou rodinnou akcí
 - druhý krok pro rodiče bude nejasný nebo příliš náročný
 - pilot bude stát na jednom přetíženém člověku
+- modlitební vstupy budou působit nuceně
 
 **Signály úspěchu:**
 
@@ -88,9 +89,9 @@ Nebyl preferován:[1]
 
 **Vhodný kontext spuštění:** Město nebo větší obec, kde existuje okruh lidí otevřených tématům smyslu, spirituality nebo modlitby, ale s nízkou ochotou vstoupit rovnou do běžného farního života.
 
-**Navrhovaný mechanismus pro podporu participace a návratovosti:** Zatím nemáme uspokojivě vymyšlené, jak má v tomto pilotu vypadat mechanismus participace v užším smyslu. Návratovost zde zřejmě ponese spíše opakovaný rytmus, kvalita rozhovoru a jasný další krok než brzké převzetí malé role. Je tedy otázka k dalšímu rozlišení, zda má být u tohoto pilotu participace chápána jako nutná součást designu, nebo zda zde stačí soustředit se hlavně na přechod od prvního kontaktu k opakovanému setkání a stabilnější komunitě.
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** V této podobě zatím není jasně navržen samostatný mechanismus participace v užším smyslu. Návratovost zde zřejmě ponese spíše opakovaný rytmus, kvalita rozhovoru a jasný další krok než brzké převzetí malé role. Zůstává tedy otevřenou otázkou, zda má být u tohoto pilotu participace chápána jako nutná součást designu, nebo zda se má těžiště soustředit hlavně na přechod od prvního kontaktu k opakovanému setkání a stabilnější komunitě.
 
-**Navrhovaný mechanismus pro včlenění spirituality:** Spiritualita zde plyne z povahy projektu samotného. Nejde o dodatečné „duchovní oživení“ jinak neutrální aktivity, ale o cestu pro hledající, která už od začátku stojí na modlitebním experimentu, rozhovoru o smyslu, otevřenosti k Bohu a nenátlakovém duchovním hledání. Úkolem pilotu je najít takovou podobu, v níž je tato spiritualita kulturně srozumitelná a zároveň nezůstává neurčitá nebo zcela odpojená od další cesty do vztahu, modlitby a komunity.
+**Navrhovaný mechanismus pro včlenění spirituality:** Spiritualita zde plyne z povahy projektu samotného. Nejde o dodatečné duchovní oživení jinak neutrální aktivity, ale o cestu pro hledající, která už od začátku stojí na modlitebním experimentu, rozhovoru o smyslu, otevřenosti k Bohu a nenátlakovém duchovním hledání. Úkolem pilotu je najít takovou podobu, v níž je tato spiritualita kulturně srozumitelná a zároveň nezůstává neurčitá ani odpojená od další cesty do vztahu, modlitby a komunity.
 
 **Hlavní rizika:**
 
@@ -129,7 +130,7 @@ Nebyl preferován:[1]
 
 **Navrhovaný mechanismus pro podporu participace a návratovosti:** Zapojení má plynout už z povahy činnosti samotné. Formát má být navržen tak, aby nově příchozí nezůstávali jen příjemci služby nebo pasivními návštěvníky, ale mohli se přirozeně a bezpečně zapojit do malého konkrétního úkolu podle svých možností. Návratovost zde nemá stát hlavně na programu navíc, ale na zkušenosti, že člověk přišel dělat něco užitečného spolu s druhými, byl při tom přijat a našel si v činnosti vlastní malé místo.
 
-**Navrhovaný mechanismus pro včlenění spirituality:** Spiritualita má stát na tom, že facilitátor předává sousedskou pomoc jako účast na Božím díle a vnáší tohoto ducha do celé činnosti. Nemá jít jen o oddělený duchovní blok, ale o průběžné formování atmosféry a významu společné práce. Prostředky k tomu mohou být krátká modlitba, zpěv, rozhovor během činnosti, krátké přestávky na usebrání, zachovávání klidu a dobré nálady, asertivita a vědomá péče o dobré vztahy a zdravou komunikaci ve skupině.
+**Navrhovaný mechanismus pro včlenění spirituality:** Spiritualita má stát na tom, že facilitátor předává sousedskou pomoc jako účast na Božím díle a vnáší tohoto ducha do celé činnosti. Nemá jít jen o oddělený duchovní blok, ale o průběžné formování atmosféry a významu společné práce. Prostředky k tomu mohou být krátká modlitba, zpěv, rozhovor během činnosti, krátké přestávky na usebrání, zachovávání klidu a dobré nálady, asertivita a vědomá péče o dobré vztahy i zdravou komunikaci ve skupině.
 
 **Hlavní rizika:**
 
