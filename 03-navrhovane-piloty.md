@@ -88,9 +88,9 @@ Nebyl preferován:[1]
 
 **Vhodný kontext spuštění:** Město nebo větší obec, kde existuje okruh lidí otevřených tématům smyslu, spirituality nebo modlitby, ale s nízkou ochotou vstoupit rovnou do běžného farního života.
 
-**Navrhovaný mechanismus pro podporu participace a návratovosti:** Placeholder k doplnění. Zde má být popsáno, jak se účastník posouvá od prvního kontaktu k opakovanému zapojení, malé roli a dalšímu kroku.
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** Zatím nemáme uspokojivě vymyšlené, jak má v tomto pilotu vypadat mechanismus participace v užším smyslu. Návratovost zde zřejmě ponese spíše opakovaný rytmus, kvalita rozhovoru a jasný další krok než brzké převzetí malé role. Je tedy otázka k dalšímu rozlišení, zda má být u tohoto pilotu participace chápána jako nutná součást designu, nebo zda zde stačí soustředit se hlavně na přechod od prvního kontaktu k opakovanému setkání a stabilnější komunitě.
 
-**Navrhovaný mechanismus pro včlenění spirituality:** Placeholder k doplnění. Zde má být popsáno, jak je spiritualita nesena jako přirozený most od hledání k dalšímu rozhovoru, modlitbě a komunitě.
+**Navrhovaný mechanismus pro včlenění spirituality:** Spiritualita zde plyne z povahy projektu samotného. Nejde o dodatečné „duchovní oživení“ jinak neutrální aktivity, ale o cestu pro hledající, která už od začátku stojí na modlitebním experimentu, rozhovoru o smyslu, otevřenosti k Bohu a nenátlakovém duchovním hledání. Úkolem pilotu je najít takovou podobu, v níž je tato spiritualita kulturně srozumitelná a zároveň nezůstává neurčitá nebo zcela odpojená od další cesty do vztahu, modlitby a komunity.
 
 **Hlavní rizika:**
 
@@ -127,9 +127,9 @@ Nebyl preferován:[1]
 
 **Vhodný kontext spuštění:** Fara nebo komunitní prostor v místě, kde je šance navázat na sousedské vztahy, lokální potřeby a praktické dovednosti.
 
-**Navrhovaný mechanismus pro podporu participace a návratovosti:** Placeholder k doplnění. Zde má být popsáno, jak nově příchozí rychle dostávají malou bezpečnou roli a proč by se měli vracet nejen jako příjemci, ale i jako spoluúčastníci.
+**Navrhovaný mechanismus pro podporu participace a návratovosti:** Zapojení má plynout už z povahy činnosti samotné. Formát má být navržen tak, aby nově příchozí nezůstávali jen příjemci služby nebo pasivními návštěvníky, ale mohli se přirozeně a bezpečně zapojit do malého konkrétního úkolu podle svých možností. Návratovost zde nemá stát hlavně na programu navíc, ale na zkušenosti, že člověk přišel dělat něco užitečného spolu s druhými, byl při tom přijat a našel si v činnosti vlastní malé místo.
 
-**Navrhovaný mechanismus pro včlenění spirituality:** Placeholder k doplnění. Zde má být popsáno, jak se praktická užitečnost propojuje s modlitbou, reflexí, rozhovorem a další cestou do komunity.
+**Navrhovaný mechanismus pro včlenění spirituality:** Spiritualita má stát na tom, že facilitátor předává sousedskou pomoc jako účast na Božím díle a vnáší tohoto ducha do celé činnosti. Nemá jít jen o oddělený duchovní blok, ale o průběžné formování atmosféry a významu společné práce. Prostředky k tomu mohou být krátká modlitba, zpěv, rozhovor během činnosti, krátké přestávky na usebrání, zachovávání klidu a dobré nálady, asertivita a vědomá péče o dobré vztahy a zdravou komunikaci ve skupině.
 
 **Hlavní rizika:**
 
