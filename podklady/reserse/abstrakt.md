@@ -1,5 +1,7 @@
 # Srovnatelné projekty a pilotní programy
 
+Abstrakt k rešerši projektů relevantních pro návrh pilotních misijních programů CČSH
+
 ## Opodstatnění
 
 Pokud má CČSH uvažovat o misijních programech, nemá smysl se ani držet jen těch zavedených ani začínat od improvizace, dojmu nebo pouhé přitažlivosti nápadu.[1][2][3] Obzvlášť v prostředí omezených personálních kapacit, omezených peněz a vysoké nejistoty je rozumnější nejprve pečlivě zmapovat terén, porozumět problému, který chceme řešit, a učit se od jiných iniciativ, které už narazily na podobné překážky.[1][2][3][9] Nejde o přebírání cizích modelů beze změny, ale o odpovědnější způsob rozhodování: dříve než církev vloží energii do vlastních ověřovacích projektů, které dále v textu stručně označuji jako piloty, má si ujasnit, jaké mechanismy se jinde osvědčily, za jakých podmínek fungovaly a kde naopak selhávaly.[1][2]
@@ -50,6 +52,8 @@ Rešerše srovnatelných projektů neříká, že CČSH má převzít některý 
 
 Konkrétní seznam navrhovaných pilotů je přiložen zvlášť. Už nyní je však z rešerše zřejmé, že smysluplné pilotování nemá stát na eventismu, plošném rozmělňování sil ani na domněnce, že samotná vstřícnost stačí.[3][5][8] Má stát na pečlivě připravených a vyhodnocovaných cestách, které propojí malý první krok s možností dalšího návratu, zapojení a růstu.[3][8]
 
+Kdo chce sledovat, z čeho přesně tyto závěry vznikly, může pokračovat do procesního archivu rešerše.
+
 ## Reference
 
 [1] Kathryn Skivington et al., *A new framework for developing and evaluating complex interventions: update of Medical Research Council guidance* (BMJ, 30 September 2021) — https://www.bmj.com/content/374/bmj.n2061
@@ -64,8 +68,8 @@ Konkrétní seznam navrhovaných pilotů je přiložen zvlášť. Už nyní je v
 
 [6] Church of England, *Grant awarded for research into Messy Churches* (30 August 2019) — https://www.churchofengland.org/media/press-releases/grant-awarded-research-messy-churches
 
-[7] Metodika rešerše — [reserse/01-metodika/metodika.md](reserse/01-metodika/metodika.md)
+[7] Metodika rešerše — [vyhotoveni/01-metodika/metodika.md](vyhotoveni/01-metodika/metodika.md)
 
-[8] Kumulativní syntéza rešerše — [reserse/04-synteza/01-kumulativni-synteza.md](reserse/04-synteza/01-kumulativni-synteza.md)
+[8] Kumulativní syntéza rešerše — [vyhotoveni/04-synteza/01-kumulativni-synteza.md](vyhotoveni/04-synteza/01-kumulativni-synteza.md)
 
-[9] Zadání a cíl rešerše — [reserse/00-zadani-a-cil/zadani-a-cil.md](reserse/00-zadani-a-cil/zadani-a-cil.md)
+[9] Zadání a cíl rešerše — [vyhotoveni/00-zadani-a-cil/zadani-a-cil.md](vyhotoveni/00-zadani-a-cil/zadani-a-cil.md)

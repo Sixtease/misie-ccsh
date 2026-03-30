@@ -1,32 +1,16 @@
-# Připomínky ke 2. zasedání 9. sněmu
+Vážené sestry, vážení bratři,
 
-Tento repozitář shromažďuje pracovní podobu připomínek ke koncepci misie a evangelizace CČSH. Slouží jako sdílený podklad pro interní čtení, připomínkování a další společnou úpravu textu.
+na základě výzvy k podání připomínek ke sněmovním dokumentům si dovoluji podat tento návrh k doplnění naší koncepce misie a evangelizace.
 
-Repozitář je uspořádán tak, aby byly po ruce jednak hlavní kapitoly výsledného dokumentu, jednak procesní a podkladová vrstva k rešerši srovnatelných projektů.
+Vycházím z přesvědčení, že obroda členské základny naší církve je nutná, možná a, ač v Božích rukou, je třeba k ní co nejlépe těma svýma přispět.
 
-## Co je v repozitáři
+Domnívám se, že CČSH vedle teologického a obecně koncepčního rámce potřebuje také praktičtější misijní strategii: jasnější určení priorit, promyšlené ověřování konkrétních kroků, souběžnou péči o kvalitu církevního života a poctivější zajištění potřebných kapacit a prostředků.
 
-- `00-pruvodni-dopis.md`
-  Průvodní rámec k celému materiálu a vysvětlení, proč byly připomínky zpracovány právě tímto způsobem.
-- `01-srovnatelne-projekty.md`
-  Stručné shrnutí, proč byla zpracována rešerše srovnatelných projektů a co z ní vyplývá pro uvažování o pilotech.
-- `02-reserse/`
-  Procesní archiv rešerše: zadání, metodika, jednotlivé iterace, knihovna případů, syntéza a odvozená doporučení.
-- `03-navrhovane-piloty.md`
-  Stručný návrh pilotních programů vhodných k ověřování v podmínkách CČSH.
-- `04-investice-do-rozvoje.md`
-  Argumentace pro souběžné posilování lidí, služeb a kapacit, bez něhož by misijní krok nebyl dlouhodobě únosný.
-- `05-revidovana-koncepce-misie-ccsh.md`
-  Revidovaná pracovní verze koncepce, která propojuje teologické jádro s praktičtější strategickou a operační vrstvou.
+Právě o toto doplnění praktické stránky se tento návrh pokouší. Nemá za cíl stávající koncepci nahrazovat ani měnit její základní východiska, ale navázat na ni tam, kde je to podle mého soudu ku prospěchu.
 
-## Jak s repozitářem pracovat
+Samotné doplnění naleznete v přiloženém dokumentu „doplneni-ke-koncepci-misie-a-evangelizace-ccsh“. Archiv „podklady.zip“ obsahuje rozvedení a odůvodnění navrhovaných bodů, seznam misijních projektů a rešerši srovnatelných iniciativ, z níž tento seznam vychází.
 
-- Hlavní text pro společnou debatu je v pěti kapitolách v kořeni repozitáře.
-- Adresář `02-reserse/` je podpůrný archiv, ne stručné úvodní čtení.
-- Při úpravách je vhodné zachovat rozdíl mezi hlavním argumentačním textem a podkladovou dokumentací.
-- Pokud se přesouvají nebo přejmenovávají soubory, je potřeba opravit i vnitřní odkazy v markdownu.
-- Větší obsahové zásahy je lepší dělat tak, aby zůstalo čitelné, co je hlavní stanovisko a co je jeho opora v rešerši.
+Budu rád, věnujete-li tomuto návrhu svoje laskavé posouzení.
 
-## Poznámka ke struktuře
-
-`02-reserse/` má vlastní vnitřní strukturu i vlastní README soubory. Pokud někdo potřebuje sledovat, z čeho jednotlivé závěry vznikly, má začít právě tam, nejlépe od `02-reserse/README.md`.
+S úctou
+~ RNDr. ThDr. Jan Oldřich Krůza, Ph.D.

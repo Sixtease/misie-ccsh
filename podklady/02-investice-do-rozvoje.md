@@ -3,6 +3,7 @@
 ## Opodstatnění
 
 Účelem misie je přivést do církve nové lidi. Pokud však lidé, kteří vyslyší pozvání, nenajdou dostatečné důvody v církvi setrvat, bylo misijní úsilí zbytečné. Aby se církevní prostředí, do kterého misie zve, přirozeně stávalo pro příchozí novým domovem, je nutné efektivně rozvíjet ty stránky církve, které se nejvíce podílejí na reálném a pociťovaném přínosu pro její nové a stávající členy.[1][2]
+Tento dokument ukazuje, proč samotný misijní záměr bez rozvojové opory nebude dlouhodobě nosný.
 Které stránky to přesně jsou, je na další výzkum, ale pravděpodobně se týkají spíš jednotlivých náboženských obcí než celocírkevních struktur.[3][4][5] Ty jsou pak přímo závislé na lidech v těchto obcích.[1][6] Součástí misijní strategie proto musí být i strategie rozvoje, která se zaměřuje na posilování lidí, služeb a komunit, které jsou nejblíže k lidem, které církev zve. Bez takové rozvojové strategie bude misijní úsilí ztrácet účinek, protože nebude schopné nést další krok.[1][2]
 
 V českém prostředí navíc vstupujeme do situace, v níž kněžská i obecně církevní role nese omezenou společenskou prestiž a oslabenou důvěru.[7][8] To samo není důvod k rezignaci, ale znamená to, že církev nemůže předpokládat přirozenou autoritu.[7][8] Musí ji znovu získávat kvalitou služby, srozumitelností, věrohodností a schopností doprovázet lidi v reálných životních otázkách.[1][2]
@@ -45,9 +46,9 @@ Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým ná
 
 ## Reference
 
-[1] Operační rámec pro misii a evangelizaci CČSH — [reserse/05-doporuceni/operacni-ramec-pro-misii-a-evangelizaci-ccsh.md](reserse/05-doporuceni/operacni-ramec-pro-misii-a-evangelizaci-ccsh.md)
+[1] Operační rámec pro misii a evangelizaci CČSH — [reserse/vyhotoveni/05-doporuceni/operacni-ramec-pro-misii-a-evangelizaci-ccsh.md](reserse/vyhotoveni/05-doporuceni/operacni-ramec-pro-misii-a-evangelizaci-ccsh.md)
 
-[2] Kumulativní syntéza rešerše — [reserse/04-synteza/01-kumulativni-synteza.md](reserse/04-synteza/01-kumulativni-synteza.md)
+[2] Kumulativní syntéza rešerše — [reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md](reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md)
 
 [3] Dougherty & Whitehead, *A Place to Belong: Small Group Involvement in Religious Congregations - 2010* — https://academic.oup.com/socrel/article/72/1/91/1611886
 
@@ -69,7 +70,7 @@ Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým ná
 
 [12] Richard Bliese, *Communities that Change, Congregations that Adapt - 1998* — https://www.religion-online.org/article/communities-that-change-congregations-that-adapt/
 
-[13] Transformační portfolio pro CČSH — [reserse/05-doporuceni/ccsh-transformational-portfolio.md](reserse/05-doporuceni/ccsh-transformational-portfolio.md)
+[13] Transformační portfolio pro CČSH — [reserse/vyhotoveni/05-doporuceni/ccsh-transformational-portfolio.md](reserse/vyhotoveni/05-doporuceni/ccsh-transformational-portfolio.md)
 
 [14] Česká asociace pro psychoterapii, *Rostoucí poptávka a nedostupnost psychoterapie v Česku - 2024* — https://czap.cz/Aktuality/13434298
 
@@ -135,6 +136,6 @@ Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým ná
 
 [45] Ravaghi et al., *Organizational failure and turnaround in public sector organizations: A systematic review of the evidence - 2017* — https://pmc.ncbi.nlm.nih.gov/articles/PMC6109368/
 
-[46] Rámec metrik a vyhodnocování pro CČSH — [reserse/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md](reserse/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md)
+[46] Rámec metrik a vyhodnocování pro CČSH — [reserse/vyhotoveni/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md](reserse/vyhotoveni/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md)
 
 [47] Organisation for Economic Co-operation and Development, *Public finance and budgets* — https://www.oecd.org/en/topics/public-finance-and-budgets.html

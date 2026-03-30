@@ -2,11 +2,11 @@
 
 ## Účel
 
-Tento dokument na základě rešerše srovnatelných misijních iniciativ předkládá výběr vzorových pilotních projektů pro CČSH. Tyto piloty reprezentují mechanismy, které se v rešerši ukazují jako relevantní pro úspěšnou misii v našem kontextu.[1]
+Tento dokument předkládá výběr vzorových pilotních projektů pro CČSH na základě přiložené rešerše srovnatelných misijních iniciativ. Tyto piloty reprezentují mechanismy, které se v rešerši ukazují jako relevantní pro úspěšnou misii v našem kontextu.[1]
+
+Jde o převod širšího souboru doporučených směrů do krátkého seznamu konkrétních pilotů, které mají pro CČSH vysoký strategický přínos a zároveň ještě realistickou spustitelnost během 12 měsíců.[1] Tento seznam je třeba chápat jako expertní užší výběr odvozený ze syntézy rešerše, nikoli jako její nezpochybnitelný závěr.
 
 Cílem je představit inspirativní vzory projektů, které by stálo za to uskutečnit. Nejde však o hotové návrhy ke konkrétní realizaci. Neberou ještě v potaz konkrétní místo uskutečnění ani dostupnost lidí, kteří by se jich v této podobě zhostili.
-
-Jde tedy o převod širšího souboru doporučených směrů do krátkého seznamu konkrétních pilotů, které mají pro CČSH vysoký strategický přínos a zároveň ještě realistickou spustitelnost během 12 měsíců.[1] Tento seznam je třeba chápat jako expertní užší výběr odvozený ze syntézy rešerše, nikoli jako mechanický výstup jedné rozhodovací matice.
 
 Jde o záměrně omezený výběr pilotních projektů, které:
 
@@ -24,7 +24,7 @@ Do užšího výběru byly zařazeny pilotní projekty, které nejlépe spojují
 - rozumný kapacitní nárok
 - silnou oporu v pořadí doporučení a souhrnné syntéze
 
-Nebyl preferován:[1]
+Nebyl preferován:
 
 - nejnižší nárok za každou cenu
 - tematicky co nejširší rozptyl
@@ -261,9 +261,11 @@ Nejsilnější první pilotní vlna pro CČSH nemá být co nejširší.[1] Má 
 - zda umí proměnit praktickou užitečnost v komunitní a duchovní cestu
 - zda umí soustředit omezenou kapacitu tak, aby piloty nebyly izolované
 
+Stručné odůvodnění, z jakého typu srovnání a z jakých závěrů tento výběr vychází, je shrnuto v navazujícím dokumentu o srovnatelných projektech; podrobnější podklady jsou pak rozvedeny v procesním archivu rešerše.
+
 ## Reference
 
-[1] Kumulativní syntéza rešerše — [reserse/04-synteza/01-kumulativni-synteza.md](reserse/04-synteza/01-kumulativni-synteza.md)
+[1] Kumulativní syntéza rešerše — [reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md](reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md)
 
 [2] Church Army, *Playfully Serious* (2019) — https://churcharmy.org/wp-content/uploads/2021/07/playfully-serious.pdf
 

@@ -4,6 +4,8 @@
 
 Tento text je samostatným doplňkem ke stávající Koncepci misie a evangelizace CČSH, kterou ponechává v platnosti. Nenahrazuje její biblická, teologická ani praktická východiska, ale doplňuje ji o to, co v ní dosud není vyjádřeno dostatečně zřetelně: o strategickou, realizační, organizační a evaluační rovinu misijní práce v současných podmínkách.
 
+Tento dokument shrnuje vlastní návrh doplnění tak, aby byl srozumitelný i samostatně. Další přiložené texty jej rozvádějí z praktičtější a podkladovější strany.
+
 Původní koncepce správně vymezuje identitu CČSH, nenátlakovou povahu misie, propojení misie s preevangelizací, evangelizací, pastorací a katechezí i široké pole služeb, v nichž církev předává evangelium slovem i činem. Toto doplnění k ní přidává rámec, který má pomoci rozlišovat priority, nést odpovědnost za další kroky, soustředit omezené kapacity a poctivě posuzovat, zda misijní úsilí skutečně přispívá k obnově a růstu života církve.
 
 Smyslem tohoto doplnění není zúžit šíři poslání CČSH na několik technik nebo projektů. Smyslem je zabránit tomu, aby se misijní úsilí rozptýlilo do mnoha jednotlivých aktivit bez jasné návaznosti, bez realistického krytí a bez možnosti rozlišit, zda má aktivita skutečný přínos.
@@ -95,3 +97,5 @@ Vyhodnocování má mít konkrétní důsledky pro další rozhodování. Má po
 ## Závěr
 
 Toto doplnění vychází z přesvědčení, že na stávající Koncepci misie a evangelizace CČSH v její teologické a konceptuální kvalitě stojí za to navázat tak, aby mohla být plně využita. Proto ji doplňuje o jasnější rámec rozlišování, nesení odpovědnosti, podpory lidí, soustředění kapacit, pilotního ověřování a průběžného vyhodnocování. Smyslem tohoto textu je umožnit, aby její poslání bylo uváděno do života s konkrétností, střízlivostí a realistickým zajištěním. CČSH tak může zachovat šíři svého misijního povolání a současně postupovat tak, aby její misijní úsilí bylo věrohodné, udržitelné a skutečně vedlo k dalšímu životu církve.
+
+Kdo chce po tomto základním rámci vidět i navrhované praktické kroky a jejich institucionální oporu, může pokračovat do dokumentů o navrhovaných pilotech a investicích do rozvoje.
