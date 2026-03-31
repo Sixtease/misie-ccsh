@@ -2,18 +2,16 @@
 
 ## Účel
 
-Tento dokument předkládá výběr vzorových pilotních projektů pro CČSH na základě přiložené rešerše srovnatelných misijních iniciativ. Tyto piloty reprezentují mechanismy, které se v rešerši ukazují jako relevantní pro úspěšnou misii v našem kontextu.[1]
+Tento dokument předkládá příklady pilotních misijních projektů, které by bylo možné v CČSH bezprostředně začít připravovat a ve vhodném místním kontextu realizovat. Vychází z rešerše[1] iniciativ, které podnikaly církve a uskupení ve srovnatelné situaci, v jaké se nachází i naše církev. Jde o malý vzorek, který ukazuje, jak lze pilotní misijní projekty koncipovat. Nejde o hotové projekty k přímému převzetí, protože ještě neberou v potaz konkrétní místo uskutečnění ani dostupnost lidí, kteří by se jich mohli ujmout. Nejde o jediný možný návrh na základě této rešerše, proto stojí za to seznámit se s ní hlouběji a dojít případně i k jiným návrhům.
 
-Jde o převod širšího souboru doporučených směrů do krátkého seznamu konkrétních pilotů, které mají pro CČSH vysoký strategický přínos a zároveň ještě realistickou spustitelnost během 12 měsíců.[1] Tento seznam je třeba chápat jako expertní užší výběr odvozený ze syntézy rešerše, nikoli jako její nezpochybnitelný závěr.
+Zde navrhované pilotní projekty jsou takové, které
 
-Cílem je představit inspirativní vzory projektů, které by stálo za to uskutečnit. Nejde však o hotové návrhy ke konkrétní realizaci. Neberou ještě v potaz konkrétní místo uskutečnění ani dostupnost lidí, kteří by se jich v této podobě zhostili.
-
-Jde o záměrně omezený výběr pilotních projektů, které:
-
+- mají pro CČSH potenciálně vysoký strategický přínos
+- je realistické spustit během 12 měsíců
 - testují nejsilnější mechanismy z rešerše
 - nejsou navzájem jen drobnou variantou téhož
 - jsou organizačně unesitelné i v podmínkách omezených kapacit
-- lze po 12 až 24 měsících hodnotit podle jasných signálů
+- lze po 12 až 24 měsících hodnotit podle jasných kritérií
 
 ## Výběrová logika
 
