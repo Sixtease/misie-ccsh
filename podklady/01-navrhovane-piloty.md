@@ -265,7 +265,7 @@ Stručné odůvodnění, z jakého typu srovnání a z jakých závěrů tento v
 
 ## Reference
 
-[1] Kumulativní syntéza rešerše — [reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md](reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md)
+[1] Kumulativní syntéza rešerše — reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.pdf
 
 [2] Church Army, *Playfully Serious* (2019) — https://churcharmy.org/wp-content/uploads/2021/07/playfully-serious.pdf
 

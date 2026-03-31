@@ -46,9 +46,9 @@ Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým ná
 
 ## Reference
 
-[1] Operační rámec pro misii a evangelizaci CČSH — [reserse/vyhotoveni/05-doporuceni/operacni-ramec-pro-misii-a-evangelizaci-ccsh.md](reserse/vyhotoveni/05-doporuceni/operacni-ramec-pro-misii-a-evangelizaci-ccsh.md)
+[1] Operační rámec pro misii a evangelizaci CČSH — reserse/vyhotoveni/05-doporuceni/operacni-ramec-pro-misii-a-evangelizaci-ccsh.pdf
 
-[2] Kumulativní syntéza rešerše — [reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md](reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.md)
+[2] Kumulativní syntéza rešerše — reserse/vyhotoveni/04-synteza/01-kumulativni-synteza.pdf
 
 [3] Dougherty & Whitehead, *A Place to Belong: Small Group Involvement in Religious Congregations - 2010* — https://academic.oup.com/socrel/article/72/1/91/1611886
 
@@ -70,7 +70,7 @@ Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým ná
 
 [12] Richard Bliese, *Communities that Change, Congregations that Adapt - 1998* — https://www.religion-online.org/article/communities-that-change-congregations-that-adapt/
 
-[13] Transformační portfolio pro CČSH — [reserse/vyhotoveni/05-doporuceni/ccsh-transformational-portfolio.md](reserse/vyhotoveni/05-doporuceni/ccsh-transformational-portfolio.md)
+[13] Transformační portfolio pro CČSH — reserse/vyhotoveni/05-doporuceni/ccsh-transformational-portfolio.pdf
 
 [14] Česká asociace pro psychoterapii, *Rostoucí poptávka a nedostupnost psychoterapie v Česku - 2024* — https://czap.cz/Aktuality/13434298
 
@@ -136,6 +136,6 @@ Konkrétní čísla by měla být předmětem dalšího zkoumání, ale mým ná
 
 [45] Ravaghi et al., *Organizational failure and turnaround in public sector organizations: A systematic review of the evidence - 2017* — https://pmc.ncbi.nlm.nih.gov/articles/PMC6109368/
 
-[46] Rámec metrik a vyhodnocování pro CČSH — [reserse/vyhotoveni/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md](reserse/vyhotoveni/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.md)
+[46] Rámec metrik a vyhodnocování pro CČSH — reserse/vyhotoveni/05-doporuceni/ramec-metrik-a-vyhodnocovani-pro-ccsh.pdf
 
 [47] Organisation for Economic Co-operation and Development, *Public finance and budgets* — https://www.oecd.org/en/topics/public-finance-and-budgets.html

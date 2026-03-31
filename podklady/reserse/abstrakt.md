@@ -68,8 +68,8 @@ Kdo chce sledovat, z čeho přesně tyto závěry vznikly, může pokračovat do
 
 [6] Church of England, *Grant awarded for research into Messy Churches* (30 August 2019) — https://www.churchofengland.org/media/press-releases/grant-awarded-research-messy-churches
 
-[7] Metodika rešerše — [vyhotoveni/01-metodika/metodika.md](vyhotoveni/01-metodika/metodika.md)
+[7] Metodika rešerše — vyhotoveni/01-metodika/metodika.pdf
 
-[8] Kumulativní syntéza rešerše — [vyhotoveni/04-synteza/01-kumulativni-synteza.md](vyhotoveni/04-synteza/01-kumulativni-synteza.md)
+[8] Kumulativní syntéza rešerše — vyhotoveni/04-synteza/01-kumulativni-synteza.pdf
 
-[9] Zadání a cíl rešerše — [vyhotoveni/00-zadani-a-cil/zadani-a-cil.md](vyhotoveni/00-zadani-a-cil/zadani-a-cil.md)
+[9] Zadání a cíl rešerše — vyhotoveni/00-zadani-a-cil/zadani-a-cil.pdf

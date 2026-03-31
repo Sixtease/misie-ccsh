@@ -4,11 +4,11 @@ Tento adresář obsahuje závěrečnou vrstvu procesního archivu. Navazuje na r
 
 ## Soubory v adresáři
 
-- `srovnavaci-brief-ke-koncepci-misie-ccsh-a-vyzkumne-podlozena-doporuceni.md`
-- `ccsh-recommendations-and-warnings.md`
-- `ranked-recommendation-matrix.md`
-- `ccsh-transformational-portfolio.md`
-- `ccsh-pilot-shortlist.md`
-- `ccsh-pilot-and-transition-portfolio.md`
-- `operacni-ramec-pro-misii-a-evangelizaci-ccsh.md`
-- `ramec-metrik-a-vyhodnocovani-pro-ccsh.md`
+- `srovnavaci-brief-ke-koncepci-misie-ccsh-a-vyzkumne-podlozena-doporuceni.pdf`
+- `ccsh-recommendations-and-warnings.pdf`
+- `ranked-recommendation-matrix.pdf`
+- `ccsh-transformational-portfolio.pdf`
+- `ccsh-pilot-shortlist.pdf`
+- `ccsh-pilot-and-transition-portfolio.pdf`
+- `operacni-ramec-pro-misii-a-evangelizaci-ccsh.pdf`
+- `ramec-metrik-a-vyhodnocovani-pro-ccsh.pdf`
